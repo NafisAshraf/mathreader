@@ -11,6 +11,6 @@ h5py
 Markdown
 Pillow
 ply
-tensorflow==2.2.0
-tensorflow-estimator==2.2.0
+tensorflow>=2.2.0
+tensorflow-estimator>=2.2.0
 twine
